@@ -30,7 +30,7 @@ English Language Institute, BA
 * Salesforce Administrator
 
 ## Courses ##
-Udemy| pluralsight.com | Coursera 
+Udemy | pluralsight.com | Coursera
 
 ## Languages ##
 * English - Full professional proficiency
