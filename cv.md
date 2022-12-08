@@ -15,7 +15,7 @@ Salesforce Developer
 ## Skills ##
 * APEX
 * Visualforce
-* JavaScript 
+* JavaScript
 * LWC
 * Agile
 * Lightning Flow
